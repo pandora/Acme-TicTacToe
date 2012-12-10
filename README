@@ -1,0 +1,6 @@
+Rules: write game of TicTacToe in 1 hour. No more than 10 mins extra time to round up and make sure game runs.
+
+
+game.pl     : Interactive version
+
+game_2.pl   : Computer plays as both players
